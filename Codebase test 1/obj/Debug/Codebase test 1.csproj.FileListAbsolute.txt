@@ -1,0 +1,7 @@
+C:\Assignments\C#\Codebase test 1\Codebase test 1\obj\Debug\Codebase test 1.csproj.AssemblyReference.cache
+C:\Assignments\C#\Codebase test 1\Codebase test 1\obj\Debug\Codebase test 1.csproj.CoreCompileInputs.cache
+C:\Assignments\C#\Codebase test 1\Codebase test 1\bin\Debug\Codebase test 1.exe.config
+C:\Assignments\C#\Codebase test 1\Codebase test 1\bin\Debug\Codebase test 1.exe
+C:\Assignments\C#\Codebase test 1\Codebase test 1\bin\Debug\Codebase test 1.pdb
+C:\Assignments\C#\Codebase test 1\Codebase test 1\obj\Debug\Codebase test 1.exe
+C:\Assignments\C#\Codebase test 1\Codebase test 1\obj\Debug\Codebase test 1.pdb
