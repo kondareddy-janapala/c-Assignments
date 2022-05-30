@@ -23,8 +23,39 @@ namespace CaseStudy1
         public string Dob { get => dob; set => dob = value; }
         public int Id { get => id; set => id = value; }
 
+        public override string ToString()
+        {
+            return "Student[id: " + this.Id + ",name: " + this.Name + ",dob: " + this.Dob+"]";
+        }
 
     }
+    
+    class Course 
+    {
+        private int id;
+        private String name;
+        private DateTime duration;
+        private float fees;
+
+        public Course(int id, string name, DateTime duration, float fees)
+        {
+            this.id = id;
+            this.name = name;
+            this.duration = duration;
+            this.fees = fees;
+        }
+
+        public int Id { get => id; set => id = value; }
+        public string Name { get => name; set => name = value; }
+        public DateTime Duration { get => duration; set => duration = value; }
+        public float Fees { get => fees; set => fees = value; }
+
+        public override string ToString()
+        {
+            return "Course[id: "+this.Id+",name: "+this.Name+",duration: "+this.duration+",fees: "+this.duration+"]";
+        }
+    }
+    
     class Info
     {
         public void display(Student student)
