@@ -1,7 +1,0 @@
-C:\Assignments\C#\case study1\case study1\bin\Debug\case study1.exe.config
-C:\Assignments\C#\case study1\case study1\bin\Debug\case study1.exe
-C:\Assignments\C#\case study1\case study1\bin\Debug\case study1.pdb
-C:\Assignments\C#\case study1\case study1\obj\Debug\case study1.csproj.AssemblyReference.cache
-C:\Assignments\C#\case study1\case study1\obj\Debug\case study1.csproj.CoreCompileInputs.cache
-C:\Assignments\C#\case study1\case study1\obj\Debug\case study1.exe
-C:\Assignments\C#\case study1\case study1\obj\Debug\case study1.pdb
